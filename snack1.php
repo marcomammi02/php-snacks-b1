@@ -33,6 +33,28 @@ $arrMatch = [
             'score' => 0
         ],
     ],
+    // match 4
+    [
+        'home' => [
+            'name' => 'Napoli',
+            'score' => 40
+        ],
+        'guest' => [
+            'name' => 'Padova',
+            'score' => 60
+        ],
+    ],
+    // match 5
+    [
+        'home' => [
+            'name' => 'Corfù',
+            'score' => 50
+        ],
+        'guest' => [
+            'name' => 'Catania',
+            'score' => 45
+        ],
+    ],
 ]
 ?>
 
